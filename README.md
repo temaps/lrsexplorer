@@ -5,4 +5,5 @@
 https://sourceforge.net/projects/lrsexplorer/
 
 Исправлена компиляция в новых версиях Lazarus
+
 Под Windows не проверял
