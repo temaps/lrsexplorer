@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alex Druzhkov\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Language: Russian\n"
+
+#: tfrmmain.aaddfile.caption
+msgctxt "TFRMMAIN.AADDFILE.CAPTION"
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: tfrmmain.aaddfile.hint
+msgctxt "TFRMMAIN.AADDFILE.HINT"
+msgid "Add file to LRS"
+msgstr "Добавить файл в ресурс"
+
+#: tfrmmain.adelfile.caption
+msgctxt "TFRMMAIN.ADELFILE.CAPTION"
+msgid "Delete File"
+msgstr "Удалить файл"
+
+#: tfrmmain.adelfile.hint
+msgctxt "TFRMMAIN.ADELFILE.HINT"
+msgid "Delete resource from LRS"
+msgstr "Удалить ресурс из LRS-файла"
+
+#: tfrmmain.aexit.caption
+msgctxt "TFRMMAIN.AEXIT.CAPTION"
+msgid "Exit"
+msgstr "Выход"
+
+#: tfrmmain.aextractallres.caption
+msgctxt "TFRMMAIN.AEXTRACTALLRES.CAPTION"
+msgid "Extract All Res"
+msgstr "Извлечь все ресурсы"
+
+#: tfrmmain.aextractallres.hint
+msgctxt "TFRMMAIN.AEXTRACTALLRES.HINT"
+msgid "Extract all resources to binary files"
+msgstr "Извлечь все ресурсы в бинарные файлы"
+
+#: tfrmmain.aextractresource.caption
+msgctxt "TFRMMAIN.AEXTRACTRESOURCE.CAPTION"
+msgid "Extract Resource"
+msgstr "Извлечь ресурс"
+
+#: tfrmmain.aextractresource.hint
+msgctxt "TFRMMAIN.AEXTRACTRESOURCE.HINT"
+msgid "Extract resource to binary file"
+msgstr "Извлечь ресурс в бинарный файл"
+
+#: tfrmmain.anewlrs.caption
+msgctxt "TFRMMAIN.ANEWLRS.CAPTION"
+msgid "New LRS"
+msgstr "Новый LRS файл"
+
+#: tfrmmain.anewlrs.hint
+msgctxt "TFRMMAIN.ANEWLRS.HINT"
+msgid "New LRS"
+msgstr "Новый LRS файл"
+
+#: tfrmmain.aopenlrs.caption
+msgctxt "TFRMMAIN.AOPENLRS.CAPTION"
+msgid "Open LRS"
+msgstr "Открыть LRS"
+
+#: tfrmmain.aopenlrs.hint
+msgctxt "TFRMMAIN.AOPENLRS.HINT"
+msgid "Open LRS-file"
+msgstr "Открыть LRS файл"
+
+#: tfrmmain.arenameresource.caption
+msgctxt "TFRMMAIN.ARENAMERESOURCE.CAPTION"
+msgid "Rename resource"
+msgstr "Переименование ресурса"
+
+#: tfrmmain.asaveallres.caption
+msgctxt "TFRMMAIN.ASAVEALLRES.CAPTION"
+msgid "Save All Res"
+msgstr "Сохранить все ресурсы"
+
+#: tfrmmain.asaveallres.hint
+msgctxt "TFRMMAIN.ASAVEALLRES.HINT"
+msgid "Save all resources to folder"
+msgstr "Сохранить ресурсы в папку"
+
+#: tfrmmain.asavelrs.caption
+msgctxt "TFRMMAIN.ASAVELRS.CAPTION"
+msgid "Save LRS"
+msgstr "Сохранить LRS"
+
+#: tfrmmain.asavelrs.hint
+msgctxt "TFRMMAIN.ASAVELRS.HINT"
+msgid "Save LRS-file"
+msgstr "Сохранить LRS файл"
+
+#: tfrmmain.asavelrsas.caption
+msgid "Save As"
+msgstr "Сохранить как"
+
+#: tfrmmain.asavelrsas.hint
+msgctxt "TFRMMAIN.ASAVELRSAS.HINT"
+msgid "Save LRS as..."
+msgstr "Сохранить LRS как..."
+
+#: tfrmmain.asaveresource.caption
+msgctxt "TFRMMAIN.ASAVERESOURCE.CAPTION"
+msgid "Save Resource"
+msgstr "Сохранить ресурс"
+
+#: tfrmmain.asaveresource.hint
+msgctxt "TFRMMAIN.ASAVERESOURCE.HINT"
+msgid "Save resource to file"
+msgstr "Сохранить ресурс в отдельный файл"
+
+#: tfrmmain.aviewmodebin.caption
+msgctxt "TFRMMAIN.AVIEWMODEBIN.CAPTION"
+msgid "Viewer Mode: Bin"
+msgstr "Режим просмотра: бинарный"
+
+#: tfrmmain.aviewmodebin.hint
+msgctxt "TFRMMAIN.AVIEWMODEBIN.HINT"
+msgid "Change mode of viewer to Binary mode"
+msgstr "Изменить режим просмотра на бинарный"
+
+#: tfrmmain.aviewmodetext.caption
+msgctxt "TFRMMAIN.AVIEWMODETEXT.CAPTION"
+msgid "Viewer Mode: Text"
+msgstr "Режим просмотра: текст ресурса"
+
+#: tfrmmain.aviewmodetext.hint
+msgctxt "TFRMMAIN.AVIEWMODETEXT.HINT"
+msgid "Change mode of viewer to Resource Text mode"
+msgstr "Изменить режим просмотра на текстовый"
+
+#: tfrmmain.bitbtnapply.caption
+msgctxt "TFRMMAIN.BITBTNAPPLY.CAPTION"
+msgid "Apply"
+msgstr "Применить"
+
+#: tfrmmain.bitbtnapply.hint
+msgctxt "TFRMMAIN.BITBTNAPPLY.HINT"
+msgid "Apply changes to resource"
+msgstr "Применить изменения ресурса"
+
+#: tfrmmain.caption
+msgid "LRS Explorer"
+msgstr "LRS редактор"
+
+#: tfrmmain.gboxresourceslist.caption
+msgctxt "TFRMMAIN.GBOXRESOURCESLIST.CAPTION"
+msgid "Resources List"
+msgstr "Список ресурсов"
+
+#: tfrmmain.gboxresourceviewer.caption
+msgctxt "TFRMMAIN.GBOXRESOURCEVIEWER.CAPTION"
+msgid "Resource Viewer"
+msgstr "Просмотр ресурса"
+
+#: tfrmmain.mifile.caption
+msgctxt "TFRMMAIN.MIFILE.CAPTION"
+msgid "File"
+msgstr "Файл"
+
+#: tfrmmain.milanguage.caption
+msgctxt "TFRMMAIN.MILANGUAGE.CAPTION"
+msgid "Language"
+msgstr "Язык"
+
+#: tfrmmain.miresources.caption
+msgctxt "TFRMMAIN.MIRESOURCES.CAPTION"
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: tfrmmain.opendialogfile.title
+msgid "Open existing file"
+msgstr ""
+
+#: tfrmmain.opendialoglrs.title
+msgid "Open existing LRS file"
+msgstr ""
+
+#: tfrmmain.savedialoglrs.title
+msgid "Save LRS file as"
+msgstr ""
+
+#: tfrmmain.savedialogres.title
+msgid "Save file as"
+msgstr ""
+
+#: tfrmmain.tbseparator1.caption
+msgid "TBSeparator1"
+msgstr ""
+
+#: tfrmmain.tbseparator2.caption
+msgid "TBSeparator2"
+msgstr ""
+
+#: tfrmmain.tbseparator3.caption
+msgid "TBSeparator3"
+msgstr ""
+
+#: tfrmmain.toolbarmain.caption
+msgid "ToolBarMain"
+msgstr ""
+
+#: tfrmmain.toolbarreslist.caption
+msgid "ToolBarResList"
+msgstr ""
+
+#: tfrmmain.toolbarresource.caption
+msgid "ToolBarResource"
+msgstr ""
+
+#: ulanguages.aaddfilecaption
+msgctxt "ulanguages.aaddfilecaption"
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: ulanguages.aaddfilehint
+msgctxt "ulanguages.aaddfilehint"
+msgid "Add file to LRS"
+msgstr "Добавить файл в ресурс"
+
+#: ulanguages.adelfilecaption
+msgctxt "ulanguages.adelfilecaption"
+msgid "Delete File"
+msgstr "Удалить файл"
+
+#: ulanguages.adelfilehint
+msgctxt "ulanguages.adelfilehint"
+msgid "Delete resource from LRS"
+msgstr "Удалить ресурс из LRS-файла"
+
+#: ulanguages.aexitcaption
+msgctxt "ulanguages.aexitcaption"
+msgid "Exit"
+msgstr "Выход"
+
+#: ulanguages.aextractallrescaption
+msgctxt "ulanguages.aextractallrescaption"
+msgid "Extract All Res"
+msgstr "Извлечь все ресурсы"
+
+#: ulanguages.aextractallreshint
+msgctxt "ulanguages.aextractallreshint"
+msgid "Extract all resources to binary files"
+msgstr "Извлечь все ресурсы в бинарные файлы"
+
+#: ulanguages.aextractresourcecaption
+msgctxt "ulanguages.aextractresourcecaption"
+msgid "Extract Resource"
+msgstr "Извлечь ресурс"
+
+#: ulanguages.aextractresourcehint
+msgctxt "ulanguages.aextractresourcehint"
+msgid "Extract resource to binary file"
+msgstr "Извлечь ресурс в бинарный файл"
+
+#: ulanguages.anewlrscaption
+msgctxt "ulanguages.anewlrscaption"
+msgid "New LRS"
+msgstr "Новый LRS файл"
+
+#: ulanguages.anewlrshint
+msgctxt "ulanguages.anewlrshint"
+msgid "New LRS"
+msgstr "Новый LRS файл"
+
+#: ulanguages.aopenlrscaption
+msgctxt "ulanguages.aopenlrscaption"
+msgid "Open LRS"
+msgstr "Открыть LRS"
+
+#: ulanguages.aopenlrshint
+msgctxt "ulanguages.aopenlrshint"
+msgid "Open LRS-file"
+msgstr "Открыть LRS файл"
+
+#: ulanguages.appli_message0
+msgid "Unable to convert Delphi form to text: %s!"
+msgstr "Невозможно конвертировать Delphi-форму в текст: %s!"
+
+#: ulanguages.appli_message2
+msgid "Your lrs file %s was changed! Do you want to save it?"
+msgstr "LRS файл %s был изменен! Вы хотите сохранить изменения?"
+
+#: ulanguages.appli_message4
+msgid "Unable to create file '"
+msgstr "Невозможно создать файл!"
+
+#: ulanguages.appli_message5
+msgid "No resource name"
+msgstr "Отсутствует имя ресурса"
+
+#: ulanguages.appli_message6
+msgid "Unable to read file: %s"
+msgstr "Невозможно произвести чтение из файла: %s"
+
+#: ulanguages.appli_message7
+msgid "Unable to create temporary file "
+msgstr "Невозможно создать временный файл!"
+
+#: ulanguages.appli_message8
+msgid ""
+"Are you sure you want to delete the resource(s):\n"
+" %s?\n"
+msgstr ""
+"Вы уверены, что хотите удалить ресурс(ы):\n"
+" %s?\n"
+
+#: ulanguages.arenameresourcecaption
+msgctxt "ulanguages.arenameresourcecaption"
+msgid "Rename resource"
+msgstr "Переименовать ресурс"
+
+#: ulanguages.arenameresourcehint
+msgid "Change name of selected resource"
+msgstr "Изменить название выбранного ресурса"
+
+#: ulanguages.asaveallrescaption
+msgctxt "ulanguages.asaveallrescaption"
+msgid "Save All Res"
+msgstr "Сохранить все ресурсы"
+
+#: ulanguages.asaveallreshint
+msgctxt "ulanguages.asaveallreshint"
+msgid "Save all resources to folder"
+msgstr "Сохранить ресурсы в папку"
+
+#: ulanguages.asaveascaption
+msgid "Save as"
+msgstr "Сохранить как"
+
+#: ulanguages.asaveashint
+msgctxt "ulanguages.asaveashint"
+msgid "Save LRS as..."
+msgstr "Сохранить LRS как..."
+
+#: ulanguages.asavelrscaption
+msgctxt "ulanguages.asavelrscaption"
+msgid "Save LRS"
+msgstr "Сохранить LRS"
+
+#: ulanguages.asavelrshint
+msgctxt "ulanguages.asavelrshint"
+msgid "Save LRS-file"
+msgstr "Сохранить LRS файл"
+
+#: ulanguages.asaveresourcecaption
+msgctxt "ulanguages.asaveresourcecaption"
+msgid "Save Resource"
+msgstr "Сохранить ресурс"
+
+#: ulanguages.asaveresourcehint
+msgctxt "ulanguages.asaveresourcehint"
+msgid "Save resource to file"
+msgstr "Сохранить ресурс в отдельный файл"
+
+#: ulanguages.aviewmodebincaption
+msgctxt "ulanguages.aviewmodebincaption"
+msgid "Viewer Mode: Bin"
+msgstr "Режим просмотра: бинарный"
+
+#: ulanguages.aviewmodebinhint
+msgctxt "ulanguages.aviewmodebinhint"
+msgid "Change mode of viewer to Binary mode"
+msgstr "Изменить режим просмотра на бинарный"
+
+#: ulanguages.aviewmodetextcaption
+msgctxt "ulanguages.aviewmodetextcaption"
+msgid "Viewer Mode: Text"
+msgstr "Режим просмотра: текст ресурса"
+
+#: ulanguages.aviewmodetexthint
+msgctxt "ulanguages.aviewmodetexthint"
+msgid "Change mode of viewer to Resource Text mode"
+msgstr "Изменить режим просмотра на текстовый"
+
+#: ulanguages.bitbtnapplycaption
+msgctxt "ulanguages.bitbtnapplycaption"
+msgid "Apply"
+msgstr "Применить"
+
+#: ulanguages.bitbtnapplyhint
+msgctxt "ulanguages.bitbtnapplyhint"
+msgid "Apply changes to resource"
+msgstr "Применить изменения ресурса"
+
+#: ulanguages.gboxresourceslistcaption
+msgctxt "ulanguages.gboxresourceslistcaption"
+msgid "Resources List"
+msgstr "Список ресурсов"
+
+#: ulanguages.gboxresourceviewercaption
+msgctxt "ulanguages.gboxresourceviewercaption"
+msgid "Resource Viewer"
+msgstr "Просмотр ресурса"
+
+#: ulanguages.inputboxrenamecaption
+msgctxt "ulanguages.inputboxrenamecaption"
+msgid "Rename resource"
+msgstr "Переименование ресурса"
+
+#: ulanguages.inputboxrenameprompt
+msgid "Enter a new name for resource \"%s\"..."
+msgstr "Введите новое имя ресурса \"%s\"..."
+
+#: ulanguages.mifilecaption
+msgctxt "ulanguages.mifilecaption"
+msgid "File"
+msgstr "Файл"
+
+#: ulanguages.milanguagecaption
+msgctxt "ulanguages.milanguagecaption"
+msgid "Language"
+msgstr "Язык"
+
+#: ulanguages.miresourcescaption
+msgctxt "ulanguages.miresourcescaption"
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: ulanguages.msgattention
+msgid "Attention"
+msgstr "Внимание"
+
+#: ulanguages.msgerror
+msgid "Error"
+msgstr "Ошибка"
+
+#: ulanguages.msgerrorchange
+msgid "Change error!"
+msgstr "Ошибка изменения!"
+
+#: ulanguages.msgmanyparams
+msgid "Too many parameters!"
+msgstr "Слишком много параметров!"
+
+#: ulanguages.msgresourcechanged
+msgid "Resource \"%s\" was changed. Save it?"
+msgstr "Ресурс \"%s\" был изменен. Сохранить изменения?"
+
+#: ulanguages.opendialogfiletitle
+msgid "Open File"
+msgstr "Открыть файл"
+
+#: ulanguages.opendialoglrstitle
+msgid "Open LRS File"
+msgstr "Открыть LRS файл"
+
+#: ulanguages.savedialoglrstitle
+msgid "Save current LRS file"
+msgstr "Сохранить текущий LRS файл"
+
+#: ulanguages.savedialogresourcetitle
+msgid "Save current resource of lrs"
+msgstr "Сохранить текущий ресурс"
+

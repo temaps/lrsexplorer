@@ -1,0 +1,76 @@
++1. Add a rename resource file function (do it needed?)
+2. Language and Messages in application
+  2.1 +Complete - Check language
+  2.2 +Add language property
+  2.3 +Add hints to ToolButtons (really in actions)
+  2.4 hints with StatusBar
+  2.5 +use a Format function for messages
+
++3. Move resource functions to unit uResourceWorks
++4. Check open/save file functions with utf8 paths
++5. Add a multiselect in a treeview for manipulation
+with few resources simultaneosly
+Multideleting is complete.
+What about multisaving?
++6. check XPM pictures for correcting description
+and change it to correct form
+
++7. use PosEx function for searching resources in text
+(for this needed recreate algorithms, optimization, etc.)
+
+8. add actions
++"Save all resources",
+"Save resource as ..."
++"Extract Resource"
++"Extract All Resource"
+
+9. check when resource file was changed 
+(and Memo mistakes in it)
+
++10. make to save files (non images) to their binary form ( = Extracting)
+
++11. use a platform-specific preprocessing directives (MSWINDOWS,...)
+for a different OS compilation
+
+12. drag and drop files from Windows explorer and other programs
+
++13. view res in binary format. Add modes to viewer
+
+14. notifications when operations is completed
+
++15. rename caption and hint of actions in resourcestrings
+
+17. show how many resources was found in opened LRS-file (after open some file)
+(may be shown in StatusBar)
+
++18. saving changed in Memo resources (readding from Memo component)
+in View Binary mode.
+  So now it is possible to change text resources in LRS Explorer
+
+19. add a hexadecimal mode ?
+
+20. use a config file (INI or XML) for saving settings of application
+(Language, Recent files, etc.)
+
+21. group resources by types (by names) in TreeViewRes ?
+
+22. add copy/cut/paste (to clipboard) commands
+
+23. add a multifile support (few files open in 1 application instance)
+
+24. check resources:
+  .1 when adding file for a unique name+type
+  .2 when viewing for a validate
+  .3 when changing for a validate
+
+25. function New... to create new resource in LRS-file
+
+26. Error when open ICON in TXT mode.
+27. Ask when resource was changed but this changes did not applied
++28. set focus to treeviewres when opening a LRS file
+29. add function to get new name if there is just 1 resource in LRS
++30. show hints in status bar
+
+31. add command line features like lazres tool already have
+
+32. when viewing txt files apply button was enabled
